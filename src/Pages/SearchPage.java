@@ -6,6 +6,7 @@ public class SearchPage {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Search page");
+		System.out.println("Bye");
 
 	}
 
